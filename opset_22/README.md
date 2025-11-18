@@ -37,7 +37,7 @@
 
 <h2>System / Versions</h2>
 <ul>
-  <li><strong>Test Date:</strong> 2025-11-18 14:56:06</li>
+  <li><strong>Test Date:</strong> 2025-11-18 15:09:01</li>
   <li><strong>CPU:</strong> Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz</li>
   <li><strong>GPU:</strong> NVIDIA GeForce RTX 2070</li>
   <li><strong>ONNX:</strong> 1.18.0 | <strong>ONNX Runtime:</strong> 1.23.0+cu125</li>
@@ -58,12 +58,12 @@
     </tr>
   </thead>
   <tbody>
-<tr><td><a href="./CPU/" target="_blank">CPU</a></td><td>142 (92%)</td><td>0 (0%)</td><td>142 (92%)</td><td>11 (7%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>40 (26%)</strong></td></tr>
-<tr><td><a href="./Intel%20-%20OpenVINO%E2%84%A2/" target="_blank">Intel - OpenVINO™</a></td><td>91 (59%)</td><td>50 (32%)</td><td>141 (91%)</td><td>12 (8%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
-<tr><td><a href="./Intel%20-%20oneDNN/" target="_blank">Intel - oneDNN</a></td><td>37 (24%)</td><td>105 (68%)</td><td>142 (92%)</td><td>11 (7%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
-<tr><td><a href="./NVIDIA%20-%20CUDA/" target="_blank">NVIDIA - CUDA</a></td><td>71 (46%)</td><td>71 (46%)</td><td>142 (92%)</td><td>11 (7%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>28 (18%)</strong></td></tr>
-<tr><td><a href="./NVIDIA%20-%20TensorRT/" target="_blank">NVIDIA - TensorRT</a></td><td>98 (63%)</td><td>50 (32%)</td><td>148 (95%)</td><td>5 (3%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
-<tr><td><a href="./Windows%20-%20DirectML/" target="_blank">Windows - DirectML</a></td><td>96 (62%)</td><td>45 (29%)</td><td>141 (91%)</td><td>12 (8%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
+<tr><td><a href="./CPU/" target="_blank">CPU</a></td><td>177 (90%)</td><td>0 (0%)</td><td>177 (90%)</td><td>17 (9%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>56 (29%)</strong></td></tr>
+<tr><td><a href="./Intel%20-%20OpenVINO%E2%84%A2/" target="_blank">Intel - OpenVINO™</a></td><td>127 (65%)</td><td>50 (26%)</td><td>177 (90%)</td><td>17 (9%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
+<tr><td><a href="./Intel%20-%20oneDNN/" target="_blank">Intel - oneDNN</a></td><td>50 (26%)</td><td>127 (65%)</td><td>177 (90%)</td><td>17 (9%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
+<tr><td><a href="./NVIDIA%20-%20CUDA/" target="_blank">NVIDIA - CUDA</a></td><td>87 (44%)</td><td>90 (46%)</td><td>177 (90%)</td><td>17 (9%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>41 (21%)</strong></td></tr>
+<tr><td><a href="./NVIDIA%20-%20TensorRT/" target="_blank">NVIDIA - TensorRT</a></td><td>134 (68%)</td><td>50 (26%)</td><td>184 (94%)</td><td>10 (5%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
+<tr><td><a href="./Windows%20-%20DirectML/" target="_blank">Windows - DirectML</a></td><td>113 (58%)</td><td>63 (32%)</td><td>176 (90%)</td><td>18 (9%)</td><td>0 (0%)</td><td>0 (0%)</td><td><strong>0 (0%)</strong></td></tr>
 </tbody></table>
 <h3>Microsoft Custom Operators</h3>
 <table border="1" cellpadding="6" cellspacing="0">
